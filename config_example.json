@@ -1,0 +1,8 @@
+{
+  "pollInterval": 300,
+  "notify64": true,
+  "notify256": false,
+  "notify512": false,
+  "mailAcc": "myMail@gmail.com",
+  "mailPW": "myMailPW"
+}
