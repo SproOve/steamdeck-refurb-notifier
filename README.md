@@ -9,6 +9,7 @@ The script is running on a user set up period and notifies the user, when the de
 
 ### pip packages
     pip install yagmail
+    pip install requests
 
 ### Further steps
 - Edit [config_example.js] to your liking
